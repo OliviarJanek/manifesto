@@ -1,0 +1,2 @@
+# manifesto
+Assignment 1
